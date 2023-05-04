@@ -1,0 +1,108 @@
+option_value = {"U8940b91aba5a1787e847e372d585366a":"follow"}
+key= U8940b91aba5a1787e847e372d585366a
+message result = {}
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+option_value = {"U8940b91aba5a1787e847e372d585366a":"follow"}
+key= U8940b91aba5a1787e847e372d585366a
+message result = {}
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+option_value = {"U8940b91aba5a1787e847e372d585366a":"follow"}
+key= U8940b91aba5a1787e847e372d585366a
+message result = {}
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+option_value = {"U8940b91aba5a1787e847e372d585366a":"follow"}
+key= U8940b91aba5a1787e847e372d585366a
+message result = {"message":"A message (messages[0]) in the request body is invalid","details":[{"message":"must not be more than 4 items","property":"template[@type=buttons].actions"}]}
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+events analysis
+events analysis end
+events analysis
+events analysis end
+message analysis end
+userid = Ue8ac979922c092a0730bc540d0dbefa1
+データを更新します
+option_value = {"U8940b91aba5a1787e847e372d585366a":"follow"}
+sql data = {"Ue8ac979922c092a0730bc540d0dbefa1":"follow"}
+prepare ok
+execute = 1 
+send message = ユーザー登録が完了しました！！
+replyToken = 43a8fc68b75f4a278e189a77adb1f83c
+replymessage = {
+        "replyToken": "43a8fc68b75f4a278e189a77adb1f83c",
+        "messages":[
+    		{
+    		  "type": "text",
+    		  "text": "ユーザー登録が完了しました！！"
+    		}
+        ]
+    }
+message result = {}
+message send end
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+today is not lesson day
+events analysis
+events analysis end
+unfollow analysis end
+unfollow userid = U8940b91aba5a1787e847e372d585366a
+データを更新します
+option_value = {"Ue8ac979922c092a0730bc540d0dbefa1":"follow"}
+sql data = {"U8940b91aba5a1787e847e372d585366a":"unfollow"}
+prepare ok
+execute = 1 
+unfollow send end
+events analysis
+events analysis end
+events analysis
+events analysis end
+message analysis end
+userid = U8940b91aba5a1787e847e372d585366a
+データを更新します
+option_value = {"U8940b91aba5a1787e847e372d585366a":"unfollow"}
+events analysis
+events analysis end
+message analysis end
+userid = U8940b91aba5a1787e847e372d585366a
+データを更新します
+option_value = {"U8940b91aba5a1787e847e372d585366a":"unfollow"}
+events analysis
+events analysis end
+unfollow analysis end
+unfollow userid = U8940b91aba5a1787e847e372d585366a
+データを更新します
+option_value = {"U8940b91aba5a1787e847e372d585366a":"unfollow"}
